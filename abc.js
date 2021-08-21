@@ -36,7 +36,7 @@ function sab() {
     } else if (val == 'A2') {
         window.mG61Hd.action = 'https://docs.google.com/forms/u/0/d/e/1FAIpQLSeC-yjZBgaTSWeXqgtXP79Cq5Lik9Rh84FhZbNV0f-0lPRorQ/formResponse';
         window.data.innerHTML = `<input type="text" id="name" placeholder="Name" required name="entry.618248566"><br><br>
-        <input type="number" id="id" maxlength="50" placeholder="ID" required min="0" name="entry.588743488"> `;
+        <input type="number" id="id" maxlength="5" placeholder="ID" required min="0" name="entry.588743488"> `;
         window.op.style = 'display:none;';
         window.su.style = 'display:none;';
         window.su2.style = 'display:block;';
