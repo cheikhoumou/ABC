@@ -1,3 +1,9 @@
+body {
+  background: url("https://c.top4top.io/p_20599nh2l1.png");
+  background-size: cover;
+  transform: all 0.4s;
+  height: 100vh;
+}
 a.page-link {
     background: #1038f7 !important;
     border-color: #fff !important;
