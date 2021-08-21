@@ -77,8 +77,8 @@ function popap(){
     
     <div class="Results">
     <a href="https://script.google.com/macros/s/AKfycbyYv_7QwIY4yH7hAkp3BIm1xkVGP-mPpsTm6tyqXSmnPvV-TShM3rzXDTcwrbPjB-nu/exec
-    "> <button>A1</button> </a>
-    <a href="https://script.google.com/macros/s/AKfycbwcK10lUJiuLiJtHXvLD_NtQCOZqXffe2-WSoNLDCyba8Q8GIQX6EnLvuJpirY-k0ZHNg/exec"> <button>A2</button></div></a>
+    "> <button>B1</button> </a>
+    <a href="https://script.google.com/macros/s/AKfycbwcK10lUJiuLiJtHXvLD_NtQCOZqXffe2-WSoNLDCyba8Q8GIQX6EnLvuJpirY-k0ZHNg/exec"> <button>B2</button></div></a>
     `;
     window.login2.style = 'top: 45%;';
     document.getElementsByClassName('abc1')[0].style = 'filter: blur(2px);';
