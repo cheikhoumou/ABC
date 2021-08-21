@@ -1,0 +1,37 @@
+a.page-link {
+    background: #1038f7 !important;
+    border-color: #fff !important;
+    color: #fff !important;
+}
+
+th.sorting {
+    color: #1038f7 !important;
+}
+
+th.sorting_asc {
+    color: #1038f7 !important;
+}
+
+input.form-control.form-control-sm {
+    padding: 15px;
+    border: 2px solid #1038f7;
+    border-radius: 10px;
+    color: #1038f7;
+}
+
+.table-striped tbody tr:nth-of-type(odd) {
+    background: #ccccff5c;
+}
+
+label {
+    color: #1038f7;
+}
+
+.container {
+    font-weight: bold;
+}
+
+
+img.logo {
+    width: 100px;
+}
