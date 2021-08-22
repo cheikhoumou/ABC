@@ -10,7 +10,7 @@ window.data.innerHTML = '';
 window.mG61Hd.action = '';
 function massg() {
     confirm(`مرحبا لقد سجلت في قوائم الطلاب عليك الإنتظار فور صدور النتائج شكرا لك على التسجيل `);
-    window.location = "https://www.ebcresults.ml/";
+  //  window.location = "https://www.ebcresults.ml/";
 }
 /*
 abc 1
@@ -134,7 +134,7 @@ function copyht(){
 }
 console.log("تمت برمجة هذا الموقع من قبل شيخ أم مولاي عمر ");
 console.log('phone: 20523820');
-console.group('ebc v10');
+console.group('ebc v11');
 function unbak(){
     document.getElementsByClassName('abc1')[0].style = 'display:none;';
     document.getElementsByClassName('farm')[0].style = 'display:block;';
