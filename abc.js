@@ -118,7 +118,7 @@ function Edit() {
     } 
     div#scroll {
         display: none;
-    }`;
+    }`;}
 //     // abc1
 //    let x = window.addtext.innerHTML;
 //   window.addtext.innerHTML = `
