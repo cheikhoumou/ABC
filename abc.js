@@ -135,7 +135,7 @@ function Edit() {
 // }
 console.log("تمت برمجة هذا الموقع من قبل شيخ أم مولاي عمر ");
 console.log('phone: 20523820');
-console.group('ebc v13');
+console.group('ebc v15');
 function unbak(){
     document.getElementsByClassName('abc1')[0].style = 'display:none;';
     document.getElementsByClassName('farm')[0].style = 'display:block;';
