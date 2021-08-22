@@ -100,25 +100,25 @@ function logaut() {
     localStorage.removeItem('abc2');
     window.location = "https://www.ebcresults.ml/";
 }
-// function Edit() {
-//     document.getElementsByClassName('abc1')[0].style = 'display:block;';
-//     document.getElementsByClassName('farm')[0].style = 'display:none;';
-//     window.addstyle.innerHTML += `.abc1 {
-//         position: absolute;
-//         border: 10px solid #333;
-//         border-radius: 20px;
-//         width: 54%;
-//         overflow: scroll;
-//         height: 80%;
-//         right: 2%;
-//         top: 10%;
-//     }
-//     nav {
-//         position: absolute;
-//     } 
-//     div#scroll {
-//         display: none;
-//     }`;
+function Edit() {
+    document.getElementsByClassName('abc1')[0].style = 'display:block;';
+    document.getElementsByClassName('farm')[0].style = 'display:none;';
+    window.addstyle.innerHTML += `.abc1 {
+        position: absolute;
+        border: 10px solid #333;
+        border-radius: 20px;
+        width: 54%;
+        overflow: scroll;
+        height: 80%;
+        right: 2%;
+        top: 10%;
+    }
+    nav {
+        position: absolute;
+    } 
+    div#scroll {
+        display: none;
+    }`;
 //     // abc1
 //    let x = window.addtext.innerHTML;
 //   window.addtext.innerHTML = `
@@ -135,7 +135,7 @@ function logaut() {
 // }
 console.log("تمت برمجة هذا الموقع من قبل شيخ أم مولاي عمر ");
 console.log('phone: 20523820');
-console.group('ebc v12');
+console.group('ebc v13');
 function unbak(){
     document.getElementsByClassName('abc1')[0].style = 'display:none;';
     document.getElementsByClassName('farm')[0].style = 'display:block;';
