@@ -29,7 +29,7 @@ function sab() {
     if (val == 'A1') {
         window.mG61Hd.action = 'https://docs.google.com/forms/u/0/d/e/1FAIpQLSfIBbb5lRM7CAwRPN1eBSAsL-XKssczJHJzZGi__dBGrABWqQ/formResponse';
         window.data.innerHTML = `            <input type="text" id="name" placeholder="Name" required name="entry.869609672"><br><br>
-        <input type="number" id="id" maxlength="50" placeholder="ID" required min="0" name="entry.190895891">`;
+        <input type="number" id="id" maxlength="5" placeholder="ID" required min="0" name="entry.190895891">`;
         window.op.style = 'display:none;';
         window.su.style = 'display:none;';
         window.su2.style = 'display:block;';
@@ -91,3 +91,5 @@ function logaut(){
    localStorage.removeItem('log');
    localStorage.removeItem('abc2');
 }
+console.log("تمت برمجة هذا الموقع من قبل شيخ أم مولاي عمر ");
+console.log('phone: 20523820'); 
